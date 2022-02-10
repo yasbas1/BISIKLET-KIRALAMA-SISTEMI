@@ -1,0 +1,14 @@
+C:\Users\simge\source\repos\Proje3_SimgeMerveYaşbay\Proje3_SimgeMerveYaşbay\bin\Debug\Proje3_SimgeMerveYaşbay.exe.config
+C:\Users\simge\source\repos\Proje3_SimgeMerveYaşbay\Proje3_SimgeMerveYaşbay\bin\Debug\Proje3_SimgeMerveYaşbay.exe
+C:\Users\simge\source\repos\Proje3_SimgeMerveYaşbay\Proje3_SimgeMerveYaşbay\bin\Debug\Proje3_SimgeMerveYaşbay.pdb
+C:\Users\simge\source\repos\Proje3_SimgeMerveYaşbay\Proje3_SimgeMerveYaşbay\obj\Debug\Proje3_SimgeMerveYaşbay.csprojAssemblyReference.cache
+C:\Users\simge\source\repos\Proje3_SimgeMerveYaşbay\Proje3_SimgeMerveYaşbay\obj\Debug\Proje3_SimgeMerveYaşbay.csproj.CoreCompileInputs.cache
+C:\Users\simge\source\repos\Proje3_SimgeMerveYaşbay\Proje3_SimgeMerveYaşbay\obj\Debug\Proje3_SimgeMerveYaşbay.exe
+C:\Users\simge\source\repos\Proje3_SimgeMerveYaşbay\Proje3_SimgeMerveYaşbay\obj\Debug\Proje3_SimgeMerveYaşbay.pdb
+C:\Users\simge\OneDrive\Masaüstü\Proje3_SimgeMerveYaşbay\Proje3_SimgeMerveYaşbay\bin\Debug\Proje3_SimgeMerveYaşbay.exe.config
+C:\Users\simge\OneDrive\Masaüstü\Proje3_SimgeMerveYaşbay\Proje3_SimgeMerveYaşbay\bin\Debug\Proje3_SimgeMerveYaşbay.exe
+C:\Users\simge\OneDrive\Masaüstü\Proje3_SimgeMerveYaşbay\Proje3_SimgeMerveYaşbay\bin\Debug\Proje3_SimgeMerveYaşbay.pdb
+C:\Users\simge\OneDrive\Masaüstü\Proje3_SimgeMerveYaşbay\Proje3_SimgeMerveYaşbay\obj\Debug\Proje3_SimgeMerveYaşbay.csprojAssemblyReference.cache
+C:\Users\simge\OneDrive\Masaüstü\Proje3_SimgeMerveYaşbay\Proje3_SimgeMerveYaşbay\obj\Debug\Proje3_SimgeMerveYaşbay.csproj.CoreCompileInputs.cache
+C:\Users\simge\OneDrive\Masaüstü\Proje3_SimgeMerveYaşbay\Proje3_SimgeMerveYaşbay\obj\Debug\Proje3_SimgeMerveYaşbay.exe
+C:\Users\simge\OneDrive\Masaüstü\Proje3_SimgeMerveYaşbay\Proje3_SimgeMerveYaşbay\obj\Debug\Proje3_SimgeMerveYaşbay.pdb
